@@ -1,3 +1,3 @@
 # selenium_course
 homeworks from course
-This is test
+This is folder with auto scripts in selenium with Python 
